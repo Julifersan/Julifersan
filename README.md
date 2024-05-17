@@ -4,7 +4,7 @@ Soy un **análista de datos - _Data Analyst_**, me gusta por el simple hecho de 
 
 Soy un **análista de datos - _Data Analyst_** por que extrapolo diversos conocimientos de los  cuales he ido adquiriendo en mi existencia, puaj, eso sono algo de tipo "_revelación mística_", lo intentare una vez más..!
 
-Soy un **análista de datos - _Data Analyst_** al mejor estilo de obtener mucha informacion y poder sintetizarla en algo útil, para quién, bueno, ahhhhh, ya me fui por las ramas(branc) denuevo, hm, hm, _Git_, bueno ya..!
+Soy un **análista de datos - _Data Analyst_** al mejor estilo de obtener mucha informacion y poder sintetizarla en algo útil, para quién, bueno, ahhhhh, ya me fui por las ramas(branch) denuevo, hm, hm, _Git_, bueno ya..!
 
 Soy un **análista de datos - _Data Analyst_** porque si 🤭.
 
