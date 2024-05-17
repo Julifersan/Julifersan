@@ -1,8 +1,16 @@
-### Hola, mi nombre es **Julián Rueda**, pero me gusta el pseudónimo **Julifersan** 🫡
+# Hola, soy **Julián Rueda** (_Julifersan_) 🫡
+___
+Soy un **análista de datos - _Data Analyst_**, me gusta por el simple hecho de emplear varias ramas, pero eso es decirlo de forma simple, asi que lo intentare denuevo, hm hm..!
 
-Soy un **análista de datos - Data Analyst**
+Soy un **análista de datos - _Data Analyst_** por que extrapolo diversos conocimientos de los  cuales he ido adquiriendo en mi existencia, puaj, eso sono algo de tipo "_revelación mística_", lo intentare una vez más..!
 
-Estás son las tecnologías que manejo:
+Soy un **análista de datos - _Data Analyst_** al mejor estilo de obtener mucha informacion y poder sintetizarla en algo útil, para quién, bueno, ahhhhh, ya me fui por las ramas(branc) denuevo, hm, hm, _Git_, bueno ya..!
+
+Soy un **análista de datos - _Data Analyst_** porque si 🤭.
+
+___
+
+__Estás son las tecnologías que manejo:__
 
 * ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -11,8 +19,15 @@ Estás son las tecnologías que manejo:
 * ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 * ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+⬇️
 
-Por el momento no tengo más que decir, asi que te deseo que tengas un **excelente** día.
+⬇️
+
+⬇️
+
+⬇️
+
+Por el momento no tengo más que decir, 😅 asi que te deseo que tengas un **excelente** día. (•̀ᴗ•́ )و
 
 
 <!--
