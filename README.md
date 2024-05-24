@@ -1,12 +1,10 @@
-# Hola, soy **Julián Rueda** (_Julifersan_) 🫡
-___
-Soy un **análista de datos - _Data Analyst_**, me gusta por el simple hecho de emplear varias ramas, pero eso es decirlo de forma simple, asi que lo intentare denuevo, hm hm..!
+Soy un _analista de datos - Data Analyst_, me atrae la complejidad de fusionar diversas disciplinas. Pero, para ser sincero, esa explicación parece demasiado simplista, así que voy a intentarlo de nuevo, hm hm..!
 
-Soy un **análista de datos - _Data Analyst_** por que extrapolo diversos conocimientos de los  cuales he ido adquiriendo en mi existencia, puaj, eso sono algo de tipo "_revelación mística_", lo intentare una vez más..!
+Me dedico al _análisis de datos - Data Analyst_ porque fusiono una amplia gama de conocimientos que he adquirido a lo largo de mi vida, puaj, eso suena un poco como _"revelación mística#_, **intentaré otra vez..!**
 
-Soy un **análista de datos - _Data Analyst_** al mejor estilo de obtener mucha informacion y poder sintetizarla en algo útil, para quién, bueno, ahhhhh, ya me fui por las ramas(branch) denuevo, hm, hm, _Git_, bueno ya..!
+Como analista de datos - Data Analyst, mi estilo se centra en recopilar una gran cantidad de información y sintetizarla en algo útil. ¿Para quién? Bueno, ¡ahhhhh!, otra vez divagando, ¡hm, hm, Git, ya está bien..!
 
-Soy un **análista de datos - _Data Analyst_** porque si 🤭.
+En realidad, me considero **autodidacta**, y en este camino, Python me gusta mucho de manera especial. Mi objetivo es especializarme en el análisis de datos y el backend. ¡Es algo que no puedo evitar! 🤭
 
 ___
 
