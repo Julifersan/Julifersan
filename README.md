@@ -1,3 +1,4 @@
+# __Hola 🙂__
 Soy un _analista de datos - Data Analyst_, me atrae la complejidad de fusionar diversas disciplinas. Pero, para ser sincero, esa explicación parece demasiado simplista, así que voy a intentarlo de nuevo, hm hm..!
 
 Me dedico al _análisis de datos - Data Analyst_ porque fusiono una amplia gama de conocimientos que he adquirido a lo largo de mi vida, puaj, eso suena un poco como _"revelación mística#_, **intentaré otra vez..!**
@@ -7,14 +8,32 @@ Como analista de datos - Data Analyst, mi estilo se centra en recopilar una gran
 En realidad, me considero **autodidacta**, y en este camino, Python me gusta mucho de manera especial. Mi objetivo es especializarme en el análisis de datos y el backend. ¡Es algo que no puedo evitar! 🤭
 
 ___
+***
 
-__Estás son las tecnologías que manejo:__
+## __Estás son las tecnologías que manejo:🫡__
 
+### **Data Analyst**
+* ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 * ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+### **Soft Skills**
+* Critical Thinking
+* Assertive Communication
+* Teamwork
+* Curiosity and continuos learning
+* Professional ethics
+
+
+### **Otras Habilidades**
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 * ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ⬇️
 
