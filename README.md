@@ -2,7 +2,7 @@
 
 > El negocio siempre será el motor el cual se querra mantener, optimizar, mejorar con el fin de que crezca.
 
-Si puedieras delegar toda la información que recolectas de diferentes fuentes, toda esa información que a veces, 'solo a veces', parace  irrelevante; montañas o montículos de datos estan desperdigados, a veces en foormato físico, o tal vez lo tengas en digital, todo ello esta bien, solo es cómo está almacenado los datos.
+Si pudieras delegar toda la información que recolectas de diferentes fuentes, toda esa información que a veces, 'solo a veces', parace  irrelevante; montañas o montículos de datos estan desperdigados, a veces en foormato físico, o tal vez lo tengas en digital, todo ello esta bien, solo es cómo está almacenado los datos.
 
 * Pero... **¿Sabías que puedes organizarlos de mejor manera para obtener posibles descubirmientos que tál vez estes pasando por alto?**
 
