@@ -1,4 +1,4 @@
-# __Datalyst te saluda__
+# __Dlyst te saluda__
 
 > El negocio siempre será el motor el cual se querra mantener, optimizar, mejorar con el fin de que crezca.
 
