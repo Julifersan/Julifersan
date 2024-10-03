@@ -2,7 +2,7 @@
 
 > El negocio siempre será el motor el cual se querra mantener, optimizar, mejorar con el fin de que crezca.
 
-Si pudieras delegar toda la información que recolectas de diferentes fuentes, toda esa información que a veces, 'solo a veces', parace  irrelevante; montañas o montículos de datos estan desperdigados, a veces en foormato físico, o tal vez lo tengas en digital, todo ello esta bien, solo es cómo está almacenado los datos.
+Si pudieras delegar toda la información que recolectas de diferentes fuentes, toda esa información que a veces, 'solo a veces', parece  irrelevante; montañas o montículos de datos estan desperdigados, a veces en foormato físico, o tal vez lo tengas en digital, todo ello esta bien, solo es cómo está almacenado los datos.
 
 * Pero... **¿Sabías que puedes organizarlos de mejor manera para obtener posibles descubirmientos que tál vez estes pasando por alto?**
 
@@ -12,13 +12,13 @@ Sin embargo, la perfección es algo tan alejado y cercano a la vez y por supuest
 
 ## Ahora si, un poco de mi, pero solo un poco ⬇️
 
-Soy  _Analista de datos - Data Analyst_, aunque me gusta el autoconcepto de Datalyst, es simple en su complejidad; disculpa la interrupción, sigamos 😅
+Soy  _Analista de datos - Data Analyst_, aunque me gusta el autoconcepto de Dlyst, que es un abreviado de Datalyst, que a su vez, se abrevia de Data Analyst; es simple en su complejidad; disculpa la interrupción, sigamos 😅
 
 Me atrae la complejidad de fusionar diversas disciplinas. Pero, para ser sincero, esa explicación parece demasiado simplista, así que voy a intentarlo de nuevo, hm hm..!
 
-Me dedico al **Datalyst** porque fusiono una amplia gama de conocimientos que he adquirido a lo largo de mi vida, puaj, eso suena un poco como _"revelación mística#_, **Intentaré otra vez..!**
+Me dedico al **Dlyst** porque fusiono una amplia gama de conocimientos que he adquirido a lo largo de mi vida, puaj, eso suena un poco como _"revelación mística#_, **Intentaré otra vez..!**
 
-Como **Datalyst**, centrare mis esfuerzos en recopilar, almacenar, estructurar, limpiar, darle formato, explorarlos, analizarlos y por supuesto, mostrar los resultdos, ya que, una gran cantidad de información y sintetizarla en algo útil. ¿Para quién? Bueno, _¡ahhhhh!_, otra vez divagando y creando alternativas _¡hm, hm, Git_, ya está bien..!
+Como **Dlyst**, centrare mis esfuerzos en recopilar, almacenar, estructurar, limpiar, darle formato, explorarlos, analizarlos y por supuesto, mostrar los resultdos, ya que, una gran cantidad de información y sintetizarla en algo útil. ¿Para quién? Bueno, _¡ahhhhh!_, otra vez divagando y creando alternativas _¡hm, hm, Git_, ya está bien..!
 
 En resumen solo soy un Data_Analyst hecho a Pulso, creo que asi está mejor.
 
